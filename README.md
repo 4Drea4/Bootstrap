@@ -1,0 +1,4 @@
+# Bootstrap
+
+This was a particularly fun project that simulated a Google page with a working search function. It was pretty neat in my first few days of 
+using things like flex-box and grid.
